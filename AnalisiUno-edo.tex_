@@ -1372,8 +1372,8 @@ x^j e^{\alpha_k x}\sin (\beta_k x) &=
 \end{align}
 dunque anche le funzioni
 \[
-  v_{kj}(x) = x^j e^{\alpha_k x}\cos x, \qquad
-  w_{kj}(x) = x^j e^{\alpha_k x}\sin x
+  v_{kj}(x) = x^j e^{\alpha_k x}\cos ( \beta_k x), \qquad
+  w_{kj}(x) = x^j e^{\alpha_k x}\sin ( \beta_k x)
 \]
 essendo combinazione lineare di soluzioni, sono anch'esse
 soluzioni.

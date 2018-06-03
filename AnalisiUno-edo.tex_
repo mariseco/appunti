@@ -1640,7 +1640,7 @@ omogenea. Infatti dalla formula di derivazione del prodotto si ha:
 essendo il secondo addendo nullo per ipotesi~\eqref{eq:02154676}.
 Ma allora si può proseguire con le derivate:
 \[
-  u'' = \sum_{k=1}^n c_k v_k'' + \sum_{k=1}^n c_k' v_k
+  u'' = \sum_{k=1}^n c_k v_k'' + \sum_{k=1}^n c_k' v_k'
       = \sum_{k=1}^n c_k v_k''
 \]
 fino alla derivata $(n-1)$-esima:
